@@ -2,8 +2,8 @@
 ## European --> Greek
 ---
 Select a restaurant:
-## [Omonia-Cafe](#)
-## [Something-Greek](#)
+## [Omonia-Cafe](https://omoniacafe.com/bayridge/)
+## [Something-Greek](https://www.somethingreekonline.com/)
 ---
 Back to European
 [Start Over](../home.md)
