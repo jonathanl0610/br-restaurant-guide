@@ -6,4 +6,4 @@ Select a restaurant:
 ## [Samia's](https://www.yelp.com/biz/samias-mediterranean-food-brooklyn/)
 ---
 Back to European
-[Start Over](wd/classwork/br-restaurant-guide/European/european.md)
+[Start Over](../home.md)
